@@ -1,0 +1,57 @@
+{
+  "_args": [
+    [
+      "valorant.js@1.3.0",
+      "/home/shake/delta/playground/valo-elo"
+    ]
+  ],
+  "_from": "valorant.js@1.3.0",
+  "_id": "valorant.js@1.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-qbu8MVChexVH+k9csg6qmvvd7Ujv9jf/ndLqkAy4vl2Loe7iexNvq/Sp+yHQIOO5DuTtJW0X0NS9X4FCIij+FA==",
+  "_location": "/valorant.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "valorant.js@1.3.0",
+    "name": "valorant.js",
+    "escapedName": "valorant.js",
+    "rawSpec": "1.3.0",
+    "saveSpec": null,
+    "fetchSpec": "1.3.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/valorant.js/-/valorant.js-1.3.0.tgz",
+  "_spec": "1.3.0",
+  "_where": "/home/shake/delta/playground/valo-elo",
+  "author": {
+    "name": "Sprayxe, Speeedyyy"
+  },
+  "bugs": {
+    "url": "https://github.com/Sprayxe/valorant.js/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "colors": "^1.4.0"
+  },
+  "description": "A powerful valorant api wrapper",
+  "homepage": "https://github.com/Sprayxe/valorant.js#readme",
+  "keywords": [
+    "valorant",
+    "api"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "valorant.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sprayxe/valorant.js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.3.0"
+}
