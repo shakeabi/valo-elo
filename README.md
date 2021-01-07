@@ -14,7 +14,7 @@ Hi y'all, this website was built after being inspired from RumbleMike's [ValorSt
 
 ## Notes
 
-Neither of username nor password are **logged/stored in the server**. The autofilling of username and password from second usage is basically stored locally in your browser. You can check the source code <a href="https://github.com/shakeabi/valo-elo" target="_blank">here</a> (frontend) and <a href="https://github.com/shakeabi/valo-elo-backend" target="_blank">here</a> (backend). However, the backend is hosted in [heroku](https://dashboard.heroku.com/) (third-party hosting service). Hence, I highly recommend you to change your password to something that you're not using in other services like email, social media etc., so that in the event of highly unlikely data leak, the other services do not get affected.
+Neither username nor password are **logged/stored in the server**. The autofilling of username and password from second usage is stored locally in your browser. You can check the source code <a href="https://github.com/shakeabi/valo-elo" target="_blank">here</a> (frontend) and <a href="https://github.com/shakeabi/valo-elo-backend" target="_blank">here</a> (backend). However, the backend is hosted in [heroku](https://dashboard.heroku.com/) (third-party hosting service). Hence, I highly recommend you to change your password to something that you're not using in other services like email, social media etc., so that in the event of highly unlikely data leak, the other services do not get affected.
 
 If you still feel uncomfortable using the site, you can setup the site locally (frontend and backend), which is completely safe or use RumbleMike's [ValorStreamOverlay](https://github.com/RumbleMike/ValorantStreamOverlay/).
 
