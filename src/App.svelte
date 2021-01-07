@@ -124,7 +124,7 @@
 		<pre>*TRU: points To Rank Up</pre>
 	{/if}
 <footer style="margin-top: 20px;">Made with &hearts; by <a href="https://github.com/shakeabi" target="_blank">Shake</a></footer>
-<img style="display:hidden;" src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fvalo-elo.netlify.app" alt="Hits">
+<img style="display:none;" src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fvalo-elo.netlify.app" alt="Hits">
 </main>
 
 <style>
