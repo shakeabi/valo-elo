@@ -1,11 +1,11 @@
 <script>
   export let displayNotes;
   export let text = `
-  <h4 style="text-align: center; margin: 5px auto;"> Read the following before usage </h4>
+  <h4 style="text-align: center; margin: 5px auto;"> Read the following before use </h4>
 
-  1. This web-app is made to help people determine their ELO in <b>Valorant</b>. (accurate AFAIK)
+  1. This web-app (unofficial) was made to help people determine their ELO in <b>Valorant</b>. (accurate AFAIK)
 
-  2. The username and password are required to fetch data from the RIOT servers (would love to hear if you've found a way to not require these). However, neither of them are <b>stored in the server</b>. The autofilling of username and password after the first use is fetched from <b>localstorage</b>. 
+  2. The username and password are required to fetch data from the RIOT servers (would love to hear if you've found a way to not require these). However, neither of them are <b>stored in the server</b>. 
 
   3. I highly recommend you to change your password to something that you're not using in other services like email, social media etc., so that in the event of highly unlikely data leak, the other services do not get affected.
   
@@ -13,7 +13,7 @@
   
   5. Change regions and try again if you're request is unsuccessful.
 
-  6. Credits: <a href="https://github.com/shakeabi/valo-elo#credits-and-tech-used" target="_blank">Link</a>
+  6. Read more & credits: <a href="https://github.com/shakeabi/valo-elo#credits-and-tech-used" target="_blank">Link</a>
 
   7. Happy Gaming :)
 
